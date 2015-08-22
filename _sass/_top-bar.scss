@@ -1,0 +1,143 @@
+@mixin top-bar-style() {
+	background: transparent;
+	text-transform: lowercase;
+	font-weight: bold;
+	font-size: 1em;
+	color: #445;
+	-webkit-transition: color 300ms ease-out, background 300ms ease-out;  
+	-moz-transition: color 300ms ease-out, background 300ms ease-out;  
+	-o-transition: color 300ms ease-out, background 300ms ease-out;  
+	transition: color 300ms ease-out, background 300ms ease-out; 
+}
+
+@mixin hovered-item-style() {
+	background: #567;
+	color: #FFF;
+	text-shadow: 1px 1px #000;
+	-moz-transition: none;
+	-webkit-transition: none;
+	-o-transition: none;
+	transition: none;
+}
+
+a.logo {
+	margin-top: 3px;
+	opacity: 0.8;
+	display: inline-block;
+	height: 50px;
+	width: 173px;
+	background-image: url('/images/pro-graphics-173x50-456.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	-webkit-transition: opacity 300ms ease-out ;  
+	-moz-transition: opacity 300ms ease-out;  
+	-o-transition: opacity 300ms ease-out;  
+	transition: opacity 300ms ease-out; 
+}
+
+a.logo:hover {
+	opacity: 1;
+}
+
+#navigation {
+  background: #eee; 
+	background: linear-gradient(top, #FFF 0%, #DDD 100%);  
+	background: -moz-linear-gradient(top, #FFF 0%, #DDD 100%); 
+	background: -webkit-linear-gradient(top, #FFF 0%,#DDD 100%);
+	box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+	
+	//THE FOLLOWING THREE KEEP THE DROP SHADOW WHEN SCROLLED ALL THE WAY UP
+	position: relative;
+	z-index: 1000;
+	&.fixed { position: fixed; }
+}
+
+
+.top-bar {
+	background: transparent;
+	
+	.name {
+		padding-left: ($column-gutter / 2);
+	}
+
+	.toggle-topbar.menu-icon a {
+		opacity: 0.8;
+		color: #456;
+		-webkit-transition: opacity 300ms ease-out ;  
+		-moz-transition: opacity 300ms ease-out;  
+		-o-transition: opacity 300ms ease-out;  
+		transition: opacity 300ms ease-out; 
+		
+		span::after {
+		  box-shadow: 0 0 0 1px #567,0 7px 0 1px #567,0 14px 0 1px #567;
+		}
+		
+		&:hover {
+			opacity: 1;
+		}
+	}
+}
+
+.top-bar-section {
+	margin-right: 5px;
+	ul {
+		li {
+			@include top-bar-style();
+		}
+		
+		li:not(.has-form) {
+			>a:not(.button) {
+				@include top-bar-style();
+				&:hover {
+					@include hovered-item-style();
+				}
+				&:hover::after {
+					border-color: #FFF transparent transparent transparent;
+				}
+			}
+		
+			&:hover>a {
+				background: #EEE;
+			}
+		}
+	}
+	
+	ul.dropdown {
+		box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+		
+		li {
+			background: rgba(238,238,238,0.95);
+		}
+		
+		li:not(.has-form):not(.active)>a:not(.button){
+			@include top-bar-style();
+		}
+		
+		li:not(.has-form):not(.active):hover>a:not(.button) {
+			@include hovered-item-style();
+		}
+		
+		li.back:hover {
+			background: #456;
+			h5 a {
+				color: #FFF;
+				text-shadow: 1px 1px #000;
+			}
+		}
+		
+		li.back h5 a {
+			font-size: 1em;
+			font-weight: bold;
+			font-style: italic;
+			color: #445;
+		}
+	}
+	
+	/** THIS MESSES UP THE MENU ON SMALL SCREENS. IF STILL WANTED NEEDS TO BE IN A MEDIA QUERY
+	.right li .dropdown { //MENU DROPDOWNS LEFT-ALIGNED WITH TOP BAR MENU
+		left: 0;
+		right: auto;
+	}
+	*/
+}
+

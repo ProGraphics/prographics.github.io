@@ -1,0 +1,28 @@
+<script>
+window.ProStyle = window.ProStyle || {};
+ProStyle.Stories = ProStyle.Stories || {};
+
+ProStyle.Stories.splash = {
+	classes: {
+		text: { color:"white" }
+	},
+	frame: { aspectRatio: 4 },
+	items: [
+		{
+			text: "Powered By",
+			init: { font:16, pos:[0,-26], textShadow:true }
+		},
+		{
+			text: "The Graphical Web",
+			init: { font:36, pos:[0,10], textShadow:true }
+		}
+	]
+};
+
+ProStyle.defaultControllers = [
+	{ controllerType: "auto", start: false, stepAdvance: true, restart: false },
+	{ controllerType: "resize" },
+	{ controllerType: "tap" },
+	{ controllerType: "mouseWheel" }
+];
+</script>

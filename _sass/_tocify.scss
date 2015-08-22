@@ -1,0 +1,44 @@
+#tocify {
+	background: #F3F3F3;
+	margin: 0;
+	position: inherit;
+	width: 100%;
+	white-space: nowrap;
+	overflow-x: hidden;
+	padding: 0.3rem 0;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+	
+	li {
+		a {
+			text-transform: lowercase;
+			font-weight: bold;
+			font-size: 0.9em;
+			color: #445;
+			transition: all 300ms ease-out;
+		}
+	}
+	
+	ul ul li a {
+		font-size: 1.2em;
+		font-weight: normal;
+	}
+	
+	li:hover {
+		background: #DDD;
+		a {
+			color: #000;
+		}
+	}
+	
+	li.active {
+		background: #567;
+		a {
+			color: #FFF;
+			text-shadow: 1px 1px #000;
+		}
+	}
+	
+	&.fixed {
+		position: fixed;
+	}
+}

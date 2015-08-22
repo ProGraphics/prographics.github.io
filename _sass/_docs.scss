@@ -1,0 +1,66 @@
+div.name-value-row,
+div.model-setup-row,
+div.model-props-row,
+div.prop-value-row,
+div.prop-format-row {
+	border-left: solid 0.2em #CCC;
+	margin: 0 0 0.5em 0.1em !important;
+	> div > p {
+		margin: 0;
+	} 
+}
+
+
+@mixin row-gradient($edge) {
+	border-left-color: $edge;
+	background: -moz-linear-gradient(left, rgba(247,247,247,1) 0%, rgba(255,255,255,1) 20%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(247,247,247,1)), color-stop(20%, rgba(255,255,255,1)));
+	background: -webkit-linear-gradient(left, rgba(247,247,247,1) 0%, rgba(255,255,255,1) 20%);
+	background: -o-linear-gradient(left, rgba(247,247,247,1) 0%, rgba(255,255,255,1) 20%);
+	background: -ms-linear-gradient(left, rgba(247,247,247,1) 0%, rgba(255,255,255,1) 20%);
+	background: linear-gradient(to right, rgba(247,247,247,1) 0%, rgba(255,255,255,1) 20%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f7f7', endColorstr='#ffffff', GradientType=1 );	
+}
+
+div.name-value-row { @include row-gradient(#CCC); }
+div.model-setup-row { @include row-gradient(#BCD); }
+div.model-props-row { @include row-gradient(#CDC); }
+div.prop-value-row { @include row-gradient(#CDC); }
+div.prop-format-row { @include row-gradient(#BCD); }
+
+div.play-story {
+	font-size: 1.1em;
+	background-color: #567;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+	text-align: right;
+	padding-right:0.3em;
+	a {
+		color: #FFF;
+	}
+}
+
+span.prop-format-label {
+	background-color: transparent;
+	font-style: italic;
+}
+
+code, samp {
+	font-size: 0.8em;
+	color: #345;
+	background-color: #F7F7F7;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+	border: none;
+	padding: rem-calc(2) rem-calc(5) rem-calc(1);
+	line-height: 1.5;
+	position: relative;
+	top: -0.1em;
+}
+
+samp { background-color: #FFFFF7; }
+samp.number { color: $number-field !important; }
+samp.string { color: $string-field !important; }
+samp.boolean { color: $bool-field !important; }
+
+.documentation h3 {
+    margin: 3em 0 0.3em 0;
+}

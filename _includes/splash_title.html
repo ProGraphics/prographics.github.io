@@ -1,0 +1,27 @@
+<script>
+window.ProStyle = window.ProStyle || {};
+ProStyle.Stories = ProStyle.Stories || {};
+
+ProStyle.Stories.splash = {
+	frame: { aspectRatio: 1000/100 },
+	page: {
+		init: { font: "'Open Sans', sans-serif", style:"bold" },
+		items: [
+			{
+				text: "{{ page.title }}",
+				init: {color:"#FFF", font:50, pos:[-38,-200], anchor:-50},
+				charInit: {scale:200, textShadow:[[0,8,10,"rgba(255,255,255,0)"],[0.5,8.5,10,"rgba(0,0,0,0)"]]},
+				charActions: [
+					{anim:{dur:0.7,stagger:0.08}, pos:-10, scale:100, textShadow:[[0,36,0,"rgba(255,255,255,1)"],[0.5,36.5,1,"rgba(0,0,0,1)"]]}
+				]
+			}
+		]
+	}
+};
+
+ProStyle.defaultControllers = [
+	{ controllerType: "auto" },
+	{ controllerType: "resize" },
+	{ controllerType: "mousemove", start:0, end:80 }
+];
+</script>

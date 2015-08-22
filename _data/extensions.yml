@@ -1,0 +1,14 @@
+- name: "controller.tap"
+  url: "/assets/js/prostyle.controller.tap.min.js"
+
+- name: "controller.mousemove"
+  url: "/assets/js/prostyle.controller.mousemove.min.js"
+
+- name: "controller.mousewheel"
+  url: "/assets/js/prostyle.controller.mousewheel.min.js"
+
+- name: "item.barchart"
+  url: "/assets/js/prostyle.item.barchart.min.js"
+
+- name: "flow.stack"
+  url: "/assets/js/prostyle.flow.stack.min.js"

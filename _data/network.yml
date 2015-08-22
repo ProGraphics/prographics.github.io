@@ -1,0 +1,17 @@
+- menu_name: "Thanks"
+
+- name: "Greensock"
+  url: "http://greensock.com/"
+  title: "Greensock"
+
+- name: "Github"
+  url: "http://github.com/"
+  title: "GitHub"
+
+- name: "Phlow"
+  url: "http://phlow.github.io/"
+  title: "Images by Unsplash"
+
+- name: "Font Awesome"
+  url: "http://fontawesome.io/"
+  title: "Font Awesome"

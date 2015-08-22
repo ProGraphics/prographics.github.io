@@ -1,0 +1,13 @@
+- menu_name: "Links"
+
+- name: "Contact"
+  url: "/contact/"
+  title: "Contact"
+
+- name: "RSS"
+  url: "/feed.xml"
+  title: "Subscribe to RSS"
+
+- name: "Sitemap"
+  url: "/sitemap.xml"
+  title: "Sitemap"

@@ -1,0 +1,95 @@
+language: "en"
+title: "Pro Graphics"
+description: "We are web graphic specialists. We provide technology and tools that help power the graphical web. Hire us to bring your vision to life."
+url: "http://pro.graphics"   # Don't include a slash at the end.
+baseurl: ""
+urlimg: "http://pro.graphics/images/" # Include a slash at the end
+
+improve_content: https://github.com/prographics/prographics.github.io/edit/gh-pages
+
+# See http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: "posts/page:num"
+
+
+markdown: kramdown
+permalink: /:categories/:title/
+highlighter: pygments
+excerpt_separator: "\n\n"
+exclude: []
+include: ['.htaccess']
+
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+
+defaults:
+  -
+    scope:
+      path: "" 				# an empty string here means all files in the project
+      type: "pages"
+    values:
+      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: "gary"
+  -
+    scope:
+      path: ""        
+      type: "posts"
+    values:
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: "gary"
+
+
+
+google_author:             "https://plus.google.com/u/0/118311555303973066167"
+google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
+bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
+# alexa_verify_id:         ""
+
+
+
+# Favicons » https://mathiasbynens.be/notes/touch-icons
+favicon-32x32:                          "favicon-32x32.png"
+touch-icon-192x192:                     "touch-icon-192x192.png"
+apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180-precomposed.png"
+apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152-precomposed.png"
+apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144-precomposed.png"
+apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120-precomposed.png"
+apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114-precomposed.png"
+apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
+apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
+apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
+msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
+msapplication_tilecolor:                "#EEE"
+
+   
+# Facebook-Optimization › http://j.mp/fb_optimize
+og_image:                           "http://pro.graphics/images/pro.svg"
+og_locale:                          "en_EN"
+og_type:                            "website"
+og_title:                           "Pro Graphics"
+og_description:                     "We are web graphic specialists. We provide technology and tools that help power the graphical web. Hire us to bring your vision to life."
+og_url:                             "http://pro.graphics/"
+# og_site_name:                     ""
+
+
+
+# Comments - used in _includes/comments.html
+#disqus_shortname: proio
+
+
+# More › http://sass-lang.com/ 
+# http://jekyllrb.com/docs/assets/#sassscss
+sass:
+    sass_dir: _sass
+    style: :compressed
+
+ 
+# https://www.google.com/analytics/
+# used in _includes/footer_scripts.html
+google_analytics_tracking_id: UA-60112281-1

@@ -1,0 +1,66 @@
+---
+layout: default
+splash: frontpage
+breadcrumbs: false
+---
+
+<div class="row t80"><div class="medium-12 columns"><p class="teaser">
+We are web graphic specialists. We provide technology and tools that help power the graphical web. Unleash the power of today's browsers and web standards, create dazzling and informative animated content. Need help? Hire us to bring your vision to life.
+</p></div></div>
+
+<div class="row t60">
+    {% if page.widget-1.title %}
+    <div class="medium-6 columns" style="text-align:center">
+        <div class="row">
+            <div class="medium-9 medium-centered columns">
+                <a href="{% if page.widget-1.url contains 'http' %}{{ page.widget-1.url }}{% else %}{{ site.baseurl }}{{ page.widget-1.url }}{% endif %}"><i class="fa {{ page.widget-1.icon }} front-icon"></i></a>
+                <h2 class="t50 b20">{{ page.widget-1.title }}</h2>
+                <p style="text-align:left">{{ page.widget-1.text }}
+                    <a href="{% if page.widget-1.url contains 'http' %}{{ page.widget-1.url }}{% else %}{{ site.baseurl }}{{ page.widget-1.url }}{% endif %}">{{ site.data.language.more | downcase }}</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    {% if page.widget-2.title %}
+    <div class="medium-6 columns" style="text-align:center">
+        <div class="row">
+            <div class="medium-9 medium-centered columns">
+                <a href="{% if page.widget-2.url contains 'http' %}{{ page.widget-2.url }}{% else %}{{ site.baseurl }}{{ page.widget-2.url }}{% endif %}"><i class="fa {{ page.widget-2.icon }} front-icon"></i></a>
+                <h2 class="t50 b20">{{ page.widget-2.title }}</h2>
+                <p style="text-align:left">{{ page.widget-2.text }}
+                    <a href="{% if page.widget-2.url contains 'http' %}{{ page.widget-2.url }}{% else %}{{ site.baseurl }}{{ page.widget-2.url }}{% endif %}">{{ site.data.language.more | downcase }}</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+
+{{ content }}
+
+{% unless site.posts == empty %}
+    <div class="row t90 highlighted-posts">
+        <div class="medium-7 columns">
+          {% for post in site.posts limit:4 %}
+          <div class="row b50">
+            <div class="medium-12 columns">
+                <h3>{{ post.title }}</h3>
+                <p>
+                {% if post.category %}<a class="noline" href="/{{ post.category }}"><span class="category">{{ post.category }}</span></a>{% endif %}
+                {% if post.teaser %}{{ post.teaser | strip_html | escape }}{% else post.desc %}{{ post.desc | strip_html | escape }}{% endif %}
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title escape_once }}">{{ site.data.language.more | downcase }}</a>
+                </p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+
+        <div class="medium-5 columns">
+            <h3>More Posts</h3>
+            {% include list-posts.html entries='12' offset='4' %}
+        </div>
+    </div>
+{% endunless %}

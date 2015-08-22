@@ -1,0 +1,92 @@
+#editor {
+	border-top: solid 1px #DDD;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+[data-prostyle="animation"] {
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+.ace-clouds .ace_marker-layer .ace_bracket {
+	margin: 1px -1px 0 0 !important;
+	border: none !important;
+	background-color: greenyellow;
+	box-shadow: 0 0 3px 3px greenyellow;
+}
+
+span.ace_punctuation.ace_operator,
+span.ace_identifier {
+	color: #456 !important;
+}
+
+span.ace_paren.ace_lparen,
+span.ace_paren.ace_rparen {
+	color: #000 !important;
+	font-weight: bold !important;
+}
+
+span.ace_string {
+	color: navy !important;
+	background-color: rgba(255,251,209,0.6);
+}
+
+span.ace_boolean {
+	color: purple !important;
+	background-color: rgba(255,251,209,0.6);
+}
+
+span.ace_numeric {
+	color: darkgreen !important;
+	background-color: rgba(255,251,209,0.6);
+}
+
+div.ace_gutter-active-line {
+	background-color: #D7D7D7 !important;
+}
+
+div.ace_active-line {
+	background-color: #FAFAFA !important;
+}
+
+.jsonButton {
+	padding:10px;
+	margin-right:5px;
+	float:left;
+	&[disabled], &[disabled]:hover {
+		background-color: #EEE;
+		color: #666;
+	}
+}
+
+#btnUpdateAnim.jsonButton {
+	float:right;
+	margin-right: 0;
+}
+
+.anim-error {
+	border: double 3px #900;
+	border-radius: 1em;
+	color: #700;
+	padding: .5em;
+	font-size: .9em;
+	font-weight: bold;
+}
+
+/********* Readonly ***********/
+
+pre[data-ace] {
+	font-size: 0.8em;
+	line-height: 1.2em;
+	background-color: #F7F7F7;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+	border-radius: 3px;
+	
+	span.ace_paren.ace_lparen,
+	span.ace_paren.ace_rparen {
+		color: #89A !important;
+	}
+	
+	.ace_hidden-cursors {
+		opacity:0;
+	} 
+}
