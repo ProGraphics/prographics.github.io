@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Attribution"
+title: "Thanks"
 desc: "Thank-you!"
 breadcrumb-base: support
-permalink: "/attribution/"
+permalink: "/thanks/"
 ---
 
 <p class="teaser b20">We would like to express our sincere gratitude to these projects.  These technologies help us do what we do and without them, our job would be much harder.  Thank-you!</p>
