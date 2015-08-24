@@ -15,7 +15,5 @@
   dropdown:
   - title: Animation
     url: "/custom-animation/"
-  - title: 'Data Visualization'
-    url: "/data-visualization/"
   - title: 'Web Programming'
     url: "/web-programming/"
