@@ -6,10 +6,13 @@ breadcrumb-base: documentation
 permalink: "/custom-animation/"
 ---
 
+<p class="teaser" markdown="1">
 Want some eye-catching animated content? Whether it's a web page header, electronic brouchure, presentation, kiosk, or display. We can do it for you.
+</p>
 
+<p class="teaser" markdown="1">
 Fill out the form below and let us know how we can help you. _Please be as descriptive as possible and include your budget_. 
-
+</p>
 
 <!-- Note :
    - You can modify the font style and form style to suit your website. 
