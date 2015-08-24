@@ -7,11 +7,7 @@ permalink: "/custom-animation/"
 ---
 
 <p class="teaser" markdown="1">
-Want some eye-catching animated content? Whether it's a web page header, electronic brouchure, presentation, kiosk, or display. We can do it for you.
-</p>
-
-<p class="teaser" markdown="1">
-Fill out the form below and let us know how we can help you. _Please be as descriptive as possible and include your budget_. 
+Want some eye-catching animated content? Whether it's a web page header, electronic brouchure, presentation, kiosk, or display. We can do it for you. Fill out the form below and let us know how we can help you. _Please be as descriptive as possible and include your budget_. 
 </p>
 
 <!-- Note :
@@ -21,7 +17,7 @@ Fill out the form below and let us know how we can help you. _Please be as descr
    - It is important that you test the modified form before going live.-->
 <div id='crmWebToEntityForm' style='width:600px;margin:auto;'>
    <META HTTP-EQUIV ='content-type' CONTENT='text/html;charset=UTF-8'>
-   <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads1631006000000085041 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()' accept-charset='UTF-8'>
+   <form action='https://crm.zoho.com/crm/WebToLeadForm' name='WebToLeads1631006000000085041' method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()' accept-charset='UTF-8'>
 
 	 <!-- Do not remove this code. -->
 	<input type='text' style='display:none;' name='xnQsjsdp' value='4ee271b6c2cd432ceb971a6c2bf0b720c48c59cb80c97be50d1a891be1306111'/>
@@ -30,6 +26,9 @@ Fill out the form below and let us know how we can help you. _Please be as descr
 	<input type='text' style='display:none;'  name='actionType' value='TGVhZHM='/>
 
 	<input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;pro.graphics&#x2f;request-received&#x2f;' /> 
+	 <!-- Do not remove this code. -->
+	<input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
+	<input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'></input>
 	 <!-- Do not remove this code. -->
 	<style>
 		tr , td { 
@@ -42,19 +41,19 @@ Fill out the form below and let us know how we can help you. _Please be as descr
 
 	<tr><td colspan='2' style='text-align:left;color:black;font-family:Arial;font-size:14px;'><strong>Custom Animation Request</strong></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:right;font-size:12px;font-family:Arial;width:200px;'>First Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='40' name='First Name' /></td></tr>
+	<tr><td><span style='nowrap:nowrap;font-size:12px;font-family:Arial;width:200px;line-height: 22px;'>First Name<span style='color:red;'>*</span></span><br><input type='text' maxlength='40' style='width:250px;' name='First Name'></input></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:right;font-size:12px;font-family:Arial;width:200px;'>Last Name<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='80' name='Last Name' /></td></tr>
+	<tr><td><span style='nowrap:nowrap;font-size:12px;font-family:Arial;width:200px;line-height: 22px;'>Last Name<span style='color:red;'>*</span></span><br><input type='text' maxlength='80' style='width:250px;' name='Last Name'></input></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:right;font-size:12px;font-family:Arial;width:200px;'>Company<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Company' /></td></tr>
+	<tr><td><span style='nowrap:nowrap;font-size:12px;font-family:Arial;width:200px;line-height: 22px;'>Company<span style='color:red;'>*</span></span><br><input type='text' maxlength='100' style='width:250px;' name='Company'></input></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:right;font-size:12px;font-family:Arial;width:200px;'>Email<span style='color:red;'>*</span></td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='100' name='Email' /></td></tr>
+	<tr><td><span style='nowrap:nowrap;font-size:12px;font-family:Arial;width:200px;line-height: 22px;'>Email<span style='color:red;'>*</span></span><br><input type='text' maxlength='100' style='width:250px;' name='Email'></input></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:right;font-size:12px;font-family:Arial;width:200px;'>Phone</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='30' name='Phone' /></td></tr>
+	<tr><td><span style='nowrap:nowrap;font-size:12px;font-family:Arial;width:200px;line-height: 22px;'>Phone</span><br><input type='text' maxlength='30' style='width:250px;' name='Phone'></input></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:right;font-size:12px;font-family:Arial;width:200px;'>Website</td><td style='width:250px;' ><input type='text' style='width:250px;'  maxlength='255' name='Website' /></td></tr>
+	<tr><td><span style='nowrap:nowrap;font-size:12px;font-family:Arial;width:200px;line-height: 22px;'>Website</span><br><input type='text' maxlength='255' style='width:250px;' name='Website'></input></td></tr>
 
-	<tr><td  style='nowrap:nowrap;text-align:right;font-size:12px;font-family:Arial;width:200px;'>Description<span style='color:red;'>*</span> </td><td> <textarea name='Description' maxlength='1000' style='width:250;'></textarea></td></tr>
+	<tr><td><span style='nowrap:nowrap;font-size:12px;font-family:Arial;width:200px;line-height: 22px;'>Description<span style='color:red;'>*</span></span><br><textarea maxlength='1000' style='width:250px;' name='Description'></textarea></td></tr>
 
 	<tr><td colspan='2' style='text-align:center; padding-top:15px;'>
 		<input style='font-size:12px;color:#131307' type='submit' value='Submit' />
@@ -115,6 +114,6 @@ Fill out the form below and let us know how we can help you. _Please be as descr
 		    }
 		} catch(e) {}
 	     }
-	   </script>
+	   </script><script type='text/javascript'>var $zoho= $zoho || {salesiq:{values:{},ready:function(){$zoho.salesiq.floatbutton.visible('hide');}}};var d=document;s=d.createElement('script');s.type='text/javascript';s.defer=true;s.src='https://salesiq.zoho.com/prographics/float.ls?embedname=prographics';t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);</script>
 	</form>
 </div>
