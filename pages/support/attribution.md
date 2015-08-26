@@ -6,7 +6,7 @@ breadcrumb-base: support
 permalink: "/thanks/"
 ---
 
-<p class="teaser b20">We would like to express our sincere gratitude to these projects.  These technologies help us do what we do and without them, our job would be much harder.  Thank-you!</p>
+<p class="teaser b20">We would like to express our sincere gratitude to the people that provide these projects.  These technologies help us do what we do and, without them, our job would be much harder.  <em>Thank-you!</em></p>
 
 
 ### TypeScript
