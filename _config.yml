@@ -1,9 +1,9 @@
 language: "en"
 title: "Pro Graphics"
 description: "We are web graphic specialists. We provide technology and tools that help power the graphical web. Hire us to bring your vision to life."
-url: "http://pro.graphics"   # Don't include a slash at the end.
+url: "https://pro.graphics"   # Don't include a slash at the end.
 baseurl: ""
-urlimg: "http://pro.graphics/images/" # Include a slash at the end
+urlimg: "https://pro.graphics/images/" # Include a slash at the end
 
 improve_content: https://github.com/prographics/prographics.github.io/edit/gh-pages
 
@@ -69,12 +69,12 @@ msapplication_tilecolor:                "#EEE"
 
    
 # Facebook-Optimization › http://j.mp/fb_optimize
-og_image:                           "http://pro.graphics/images/pro.svg"
+og_image:                           "https://pro.graphics/images/pro.svg"
 og_locale:                          "en_EN"
 og_type:                            "website"
 og_title:                           "Pro Graphics"
 og_description:                     "We are web graphic specialists. We provide technology and tools that help power the graphical web. Hire us to bring your vision to life."
-og_url:                             "http://pro.graphics/"
+og_url:                             "https://pro.graphics/"
 # og_site_name:                     ""
 
 
