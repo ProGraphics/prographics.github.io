@@ -2,6 +2,7 @@
 layout: page
 title: "ProStyle Question"
 desc: "Request information about ProStyle."
+breadcrumb-title: 'question'
 permalink: "/prostyle/question/"
 ---
 
