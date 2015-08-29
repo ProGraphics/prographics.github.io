@@ -2,9 +2,7 @@
 layout: page
 title: "ProStyle Question"
 desc: "Request information about ProStyle."
-breadcrumb-base: 'prostyle'
-breadcrumb-title: 'question'
-permalink: "/prostyle-question/"
+permalink: "/prostyle/question/"
 ---
 
 <p class="teaser" markdown="1">
