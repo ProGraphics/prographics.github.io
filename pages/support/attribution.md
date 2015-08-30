@@ -35,7 +35,7 @@ The [Greensock](http://greensock.com/) JavaScript software provides ultra high-p
 
 ### CloudFlare
 
-[CloudFlare] is a content delivery network that is super easy to use. They generously offer a free tier that includes SSL. Plus, they [host JavaScript libraries](https://cdnjs.com/)!
+[CloudFlare](https://www.cloudflare.com) is a content delivery network that is super easy to use. They generously offer a free tier which includes SSL. Plus, they [host JavaScript libraries](https://cdnjs.com/)!
 
 ### Phlow Feeling Responsive
 
