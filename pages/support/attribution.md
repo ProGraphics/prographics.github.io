@@ -33,6 +33,10 @@ The [Greensock](http://greensock.com/) JavaScript software provides ultra high-p
 [GitHub](https://github.com/) is how people build software. With a community of more than 10 million people, developers can discover, use, and contribute to over 26 million projects using a powerful collaborative development workflow.  Plus, [Github Pages](https://pages.github.com/) is an amazing resource for hosting static websites using [Jekyll](http://jekyllrb.com/).
 
 
+### CloudFlare
+
+[CloudFlare] is a content delivery network that is super easy to use. They generously offer a free tier that includes SSL. Plus, they [host JavaScript libraries](https://cdnjs.com/)!
+
 ### Phlow Feeling Responsive
 
 [Feeling Responsive](https://phlow.github.io/feeling-responsive/) is a responsive theme by [Phlow](http://phlow.de/) for Jekyll based on the fabulous [Zurb Foundation](http://foundation.zurb.com/) framework with beautiful typography and a bright color palette. We use Feeling Responsive as a base template for some of our websites.
