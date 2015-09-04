@@ -1,0 +1,21 @@
+<script>
+window.ProStyle = window.ProStyle || {};
+ProStyle.Stories = ProStyle.Stories || {};
+
+ProStyle.Stories.text3d = {
+  frame: { aspectRatio: 1.5 },
+  item: {
+    text:"In 3D!",
+    init: { font: 40, color:"#234" },
+    action: {
+      anim: 10,
+      rot: [540,540,-540]
+    }
+  },
+  controllers: [
+		{ controllerType:"auto", restart:true },
+    { controllerType:"resize" }
+	]
+};
+
+</script>

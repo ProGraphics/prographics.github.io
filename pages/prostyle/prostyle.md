@@ -5,10 +5,10 @@ desc: "Write rich animated web content using a declarative stories in JSON ."
 permalink: "/prostyle/"
 ---
 
-<p class="teaser" markdown="1">Our _ProStyle_ technology simplifies the creation of timeline-based web animation. Designers can now craft rich web animations from _declarative_ scripts, written in [JSON](https://prostyle.io/concepts/#json), without any programming.</p>
+<p class="teaser b60" markdown="1">Our _ProStyle_ technology simplifies the creation of timeline-based web animation. Designers can now craft rich web animations from _declarative_ scripts, written in [JSON](https://prostyle.io/concepts/#json), without any programming.</p>
 
 <div class="row t60">
-<div class="medium-6 columns">
+<div class="medium-6 columns b60">
 	<div class="play-story"><a class="noline" href="https://prostyle.io/gallery/3d-text-animation/"><i class="fa fa-play-circle"></i> edit &amp; play</a></div>
 {% highlight javascript %}
 {
@@ -22,6 +22,9 @@ permalink: "/prostyle/"
   }
 }
 {% endhighlight %}
+
+<div data-prostyle="text3d">In 3D!</div>
+
 </div>
 <div class="medium-6 columns">
 <div style="display:block;width:250px;margin-left:auto;margin-right:auto;" markdown="1">
