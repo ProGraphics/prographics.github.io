@@ -1,9 +1,14 @@
+- name: Twitter
+  url: http://twitter.com/_prographics/
+  class: "fa fa-twitter"
+  title: "Twitter"
+  
 - name: GitHub
   url: https://github.com/ProGraphics/
   class: "fa fa-github"
   title: "GitHub"
 
-- name: Twitter
-  url: http://twitter.com/_pro_graphics/
-  class: "fa fa-twitter"
-  title: "Twitter"
+- name: CodePen
+  url: http://codepen.io/garyc/
+  class: "fa fa-codepen"
+  title: "CodePen"
