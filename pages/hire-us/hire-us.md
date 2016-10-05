@@ -19,7 +19,7 @@ permalink: "/hire-us/"
     <li><a class="noline" href="/web-programming/"><i class="fa fa-jsfiddle front-icon"></i></a><h2 class="t50 b20">Node Server</h2>
         <p style="text-align:left">Need a backend server or a console application. <a href="https://nodejs.org/">Node</a> with JavaScript is a fast and powerful solution. <a href="/web-programming/">Get Started</a></p></li>
     <li><a class="noline" href="/web-programming/"><i class="fa fa-mobile front-icon"></i></a><h2 class="t50 b20">Mobile Apps</h2>
-        <p style="text-align:left">We can use <a href="http://phonegap.com/">PhoneGap</a> and build you cross-platform mobile apps. One app that runs on both Apple and Android. <a href="/web-programming/">Get Started</a></p></li>
+        <p style="text-align:left">We can use <a href="http://ionic.io/">Ionic 2</a> and build you cross-platform mobile apps. One app that runs on both Apple and Android. <a href="/web-programming/">Get Started</a></p></li>
     <li><a class="noline" href="/web-programming/"><i class="fa fa-gears front-icon"></i></a><h2 class="t50 b20">Extensions</h2>
         <p style="text-align:left">The power of <a href="https://prostyle.io/">ProStyle</a> lies in it's extensibility. We can build you your own custom and reusable extensions. <a href="/web-programming/">Get Started</a></p></li>
 </ul>
