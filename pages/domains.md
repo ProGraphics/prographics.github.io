@@ -8,7 +8,7 @@ permalink: "/domains/"
 <div class="teaser b60">The following domains are available for purchase.  Follow the link to make an offer.</div>
 
 <ul>
-<li><a target="_blank" href="">barnstable.biz</a> <a href="http://barnstable.biz"> </a></li>
+<li><a target="_blank" href="">barnstable.biz</a> <a href="http://barnstable.biz">&nbsp;&gt;</a></li>
 <li><a target="_blank" href="">bostonsigns.com</a></li>
 <li><a target="_blank" href="">bouncy.town</a></li>
 <li><a target="_blank" href="">customcontrols.com</a></li>
