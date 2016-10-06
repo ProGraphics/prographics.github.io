@@ -8,31 +8,31 @@ permalink: "/domains/"
 <div class="teaser b60">The following domains are available for purchase.  Follow the link to make an offer.</div>
 
 <ol>
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=barnstable.biz&entry.1727519984=$189&entry.999040602&entry.607741526">
 barnstable.biz</a> <a href="http://barnstable.biz">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=bostonsigns.com&entry.1727519984=$5995&entry.999040602&entry.607741526">
 bostonsigns.com</a> <a href="http://bostonsigns.com">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="">
 bouncy.town</a> <a href="http://bouncy.town">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=customcontrols.com&entry.1727519984=$9995&entry.999040602&entry.607741526">
 customcontrols.com</a> <a href="http://customcontrols.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=designerdraw.com&entry.1727519984=$749&entry.999040602&entry.607741526">
 designerdraw.com</a> <a href="http://designerdraw.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=diagramserver.com&entry.1727519984=$995&entry.999040602&entry.607741526">
 diagramserver.com</a> <a href="http://diagramserver.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=diagramtools.com&entry.1727519984=$995&entry.999040602&entry.607741526">
 diagramtools.com</a> <a href="http://diagramtools.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=flowcharts.co&entry.1727519984=$995&entry.999040602&entry.607741526">
 flowcharts.co</a> <a href="http://flowcharts.co">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=freediagrams.com&entry.1727519984=$995&entry.999040602&entry.607741526">
 freediagrams.com</a> <a href="http://freediagrams.com">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="">
