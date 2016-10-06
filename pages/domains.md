@@ -62,19 +62,19 @@ lowellfolkfestival.com</a> <a href="http://lowellfolkfestival.com">&nbsp;&gt;</a
 <li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=lowellsigns.com&entry.1727519984=$795&entry.999040602&entry.607741526">
 lowellsigns.com</a> <a href="http://lowellsigns.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=mass.biz&entry.1727519984=$9995&entry.999040602&entry.607741526">
 mass.biz</a> <a href="http://mass.biz">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=mass.info&entry.1727519984=$9995&entry.999040602&entry.607741526">
 mass.info</a> <a href="http://mass.info">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=masschamber.com&entry.1727519984=$995&entry.999040602&entry.607741526">
 masschamber.com</a> <a href="http://masschamber.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=masschamber.org&entry.1727519984=$995&entry.999040602&entry.607741526">
 masschamber.org</a> <a href="http://masschamber.org">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=massforums.com&entry.1727519984=$189&entry.999040602&entry.607741526">
 massforums.com</a> <a href="http://massforums.com">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="">
