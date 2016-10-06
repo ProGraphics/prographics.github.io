@@ -35,31 +35,31 @@ flowcharts.co</a> <a href="http://flowcharts.co">&nbsp;&gt;</a></li>
 <li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=freediagrams.com&entry.1727519984=$995&entry.999040602&entry.607741526">
 freediagrams.com</a> <a href="http://freediagrams.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=gallery.us&entry.1727519984=$795&entry.999040602&entry.607741526">
 gallery.us</a> <a href="http://gallery.us">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=highlandspizza.com&entry.1727519984=$189&entry.999040602&entry.607741526">
 highlandspizza.com</a> <a href="http://highlandspizza.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=hotdogmedia.com&entry.1727519984=$1795&entry.999040602&entry.607741526">
 hotdogmedia.com</a> <a href="http://hotdogmedia.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=hotstockphotos.com&entry.1727519984=$199&entry.999040602&entry.607741526">
 hotstockphotos.com</a> <a href="http://hotstockphotos.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=kanban.studio&entry.1727519984=$799&entry.999040602&entry.607741526">
 kanban.studio</a> <a href="http://kanban.studio">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="https://docs.google.com/a/pro.graphics/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=learnforless.com&entry.1727519984=$1,500&entry.999040602&entry.1471934515&entry.607741526">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=learnforless.com&entry.1727519984=$1895&entry.999040602&entry.607741526">
 learnforless.com</a> <a href="http://learnforless.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=lowell.biz&entry.1727519984=$998&entry.999040602&entry.607741526">
 lowell.biz</a> <a href="http://lowell.biz">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=lowellfolkfestival.com&entry.1727519984=$695&entry.999040602&entry.607741526">
 lowellfolkfestival.com</a> <a href="http://lowellfolkfestival.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="">
+<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQLpp3dF-iWtJwf1q2efawBo7sO9XBlpbMj8HnwNwaRHIJCw/viewform?entry.154939889=lowellsigns.com&entry.1727519984=$795&entry.999040602&entry.607741526">
 lowellsigns.com</a> <a href="http://lowellsigns.com">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="">
