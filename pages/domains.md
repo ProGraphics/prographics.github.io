@@ -86,7 +86,7 @@ namepicker.com</a> <a href="http://namepicker.com">&nbsp;&gt;</a></li>
 <li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
 onfire.software</a> <a href="http://onfire.software">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
+<li><a target="_blank" href="https://flippa.com/7067609-patents-us">
 patents.us</a> <a href="http://patents.us">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
@@ -134,7 +134,7 @@ texteffects.org</a> <a href="http://texteffects.org">&nbsp;&gt;</a></li>
 <li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
 topdonut.com</a> <a href="http://topdonut.com">&nbsp;&gt;</a></li>
 
-<li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
+<li><a target="_blank" href="https://flippa.com/7067648-trademarks-us">
 trademarks.us</a> <a href="http://trademarks.us">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
