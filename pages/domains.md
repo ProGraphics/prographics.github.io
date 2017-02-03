@@ -84,19 +84,10 @@ menueditor.com</a> <a href="http://menueditor.com">&nbsp;&gt;</a></li>
 namepicker.com</a> <a href="http://namepicker.com">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
-onfire.software</a> <a href="http://onfire.software">&nbsp;&gt;</a></li>
-
-<li><a target="_blank" href="https://flippa.com/7067609-patents-us">
-patents.us</a> <a href="http://patents.us">&nbsp;&gt;</a></li>
-
-<li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
 prestodesign.com</a> <a href="http://prestodesign.com">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
 prestomedia.com</a> <a href="http://prestomedia.com">&nbsp;&gt;</a></li>
-
-<li><a target="_blank" href="https://flippa.com/7001823-pro-io">
-pro.io</a> <a href="http://pro.io">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
 pro.show</a> <a href="http://pro.show">&nbsp;&gt;</a></li>
@@ -133,9 +124,6 @@ texteffects.org</a> <a href="http://texteffects.org">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
 topdonut.com</a> <a href="http://topdonut.com">&nbsp;&gt;</a></li>
-
-<li><a target="_blank" href="https://flippa.com/7067648-trademarks-us">
-trademarks.us</a> <a href="http://trademarks.us">&nbsp;&gt;</a></li>
 
 <li><a target="_blank" href="https://goo.gl/forms/ZQ7LYP8EYMEbdP492">
 ukraine.us</a> <a href="http://ukraine.us">&nbsp;&gt;</a></li>
